@@ -1,0 +1,190 @@
+.myHeader{
+	width: 100%;
+	overflow: hidden;
+	background-size: cover;
+	background-position: center;
+	background-image: url('../img/header.jpg');
+    color: #ffffff
+}
+
+.info-1{
+    width: 100%;
+    overflow: hidden;
+    background-size: cover;
+    background-position: center;
+    background-image: url('../img/слой 8.png');
+    color: #ffffff;
+    line-height: 0.1;
+    background-color: rgba(66,4,5,1);
+}
+.place{
+    font-size: 4.6rem;
+     font-family: 'Swiss Siena', serif;
+     padding: 1.rem !important;
+    
+}
+
+.h3{
+     line-height: 0.65;
+}
+
+.h2{
+    font-family: "Century Gothic"; 
+    line-height: 1.25;
+    font-size: 2.4rem;
+    font-weight: 300;
+    line-height: 1.1;
+}
+
+.h1{
+    font-size: 4.5rem;
+    color: #ffffff;
+}
+
+.info-4{
+background-color: #420405;
+} 
+.responsive{
+    width: 100%;
+    height: auto;
+}
+
+.info-2{
+    width: 100%;
+    overflow: hidden;
+    background-size: cover;
+    background-position: center;
+    background-image: url('../img/lev.jpg');
+     color: #ffffff;
+}
+.info-3{
+    background-color: #420405;
+     color: #ffffff;
+}
+
+.chill-chat-footer{
+    position:absolute;
+    bottom:0;
+    right:0;
+}
+
+.footer{
+    height: 70px;
+    background-color: black;
+}
+
+.headerText{
+	font-size: 10em;
+	font-family: 'Swiss Siena', serif;
+        line-height: 1.0;
+}
+.hText{
+   font-size: 3em;
+   font-family: 'Poiret One', serif;
+  margin-bottom: 2.25rem !important;
+
+}
+.hhText{
+      margin-bottom: 4.25rem !important;
+      font-family: 'Swiss Siena', serif;
+       font-size: 2.4rem;
+}
+.OurGoal{
+    font-family: "Century Gothic"; 
+    font-size: 2.5rem;
+    line-height: 1.5;
+    margin-bottom: 3.5rem !important;
+}
+.Chill{
+        font-family: 'Swiss Siena', serif;
+        font-size: 1.5em;
+        font-weight: 500;
+}
+.question{
+    font-family: 'Swiss Siena', serif;
+      font-size: 5rem;
+}
+.p{
+    margin-top: 20px;
+}
+.cont{
+     font-family: 'Century Gothic', serif;
+        color: #ffffff;
+         font-size: 1.5rem;
+}
+.cont a
+{ 
+    color: white;
+}
+ .dog{
+  font-family: "Century Gothic"; 
+   font-size: 2.5rem;
+
+ }
+
+/*
+NavBar
+*/
+
+.ull {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: #212121;
+    display: flex;
+}
+
+.lii {
+       font-family: 'Poiret One', serif;
+    flex: 1 1 100%;
+    height: 95px;
+}
+
+.lii a {
+    font-size: 2.5em;
+    display: block;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* Change the link color to #111 (black) on hover */
+.lii a:hover {
+    background-color: #111;
+}
+
+
+@font-face {
+font-family: "Swiss Siena"; 
+src: url("../fonts/12206.ttf") format("truetype"); 
+font-style: normal; 
+font-weight: normal; 
+} 
+
+@font-face {
+font-family: "Poiret One"; 
+src: url("../fonts/9955.ttf") format("truetype"); 
+font-style: normal; 
+font-weight: normal; 
+} 
+@font-face {
+font-family: "Century Gothic"; 
+src: url("../fonts/11528.ttf") format("truetype"); 
+font-style: normal; 
+font-weight: normal; 
+} 
+@font-face {
+font-family: "Courier"; 
+src: url("../fonts/Courier.ttf") format("truetype"); 
+font-style: normal; 
+font-weight: normal; 
+} 
+
+.bg{
+    background-color: #420405;
+     color: #ffffff;
+}
